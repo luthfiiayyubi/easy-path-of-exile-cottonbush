@@ -191,4 +191,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Path of Exile · Updated 2026-11-19 · Shared under the MIT License*
+*Path of Exile · Updated 2026-11-20 · Shared under the MIT License*
